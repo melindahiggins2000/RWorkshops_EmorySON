@@ -1,0 +1,17 @@
+---
+title: "R and RStudio Basics"
+---
+
+## R and RStudio Basics
+
+This workshop was held on Monday June 25, 2018.
+
+## Recording
+
+The video recording for this workshop _(06/25/2018)_ can be seen at [https://youtu.be/ZeS5cFUTAyc](https://youtu.be/ZeS5cFUTAyc).
+
+
+
+
+
+

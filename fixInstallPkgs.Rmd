@@ -1,0 +1,17 @@
+---
+title: "FIX for Installing Packages"
+---
+
+## Problem Installing R Packages on Windows with Antivirus
+
+1. First read the post on ![](images/so-logo.png){width=100} at [https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation](https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation)
+
+2. During your active RStudio session, at the command prompt you can run:
+    * `trace(utils:::unpackPkgZip, edit=TRUE)`
+
+3. When the editing window pops up, scroll to line 142 and change
+    * `Sys.sleep(0.5)` to
+    * `Sys.sleep(2)`
+    
+4. Click SAVE. This fixes the read/write time issue - **BUT ONLY FOR THIS RSTUDIO SESSION** YES, you will need to run during each RStudio session when you need to install new packages.
+

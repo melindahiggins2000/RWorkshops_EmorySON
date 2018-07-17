@@ -1,0 +1,12 @@
+---
+title: "R Workshops - Emory University - School of Nursing"
+---
+
+## Summary		
+
+With the ever expanding requests and need for analyzing big data and using reproducible research methods and workflow, learning `R` is very helpful if not absolutely necessary. `R` is one of the top open source _(FREE cost and FREELY accessible and distributable)_ data processing and analysis software languages. 
+
+## Objectives
+
+These R Workshops were provided at Emory University by Melinda Higgins, PhD in the School of Nursing. Besides nursing researchers, attendees have also included people from public health, medicine and related healthcare organizations.
+

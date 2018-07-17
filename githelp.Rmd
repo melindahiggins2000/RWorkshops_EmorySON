@@ -1,0 +1,21 @@
+---
+title: "GIT/Github Cheatsheet"
+---
+
+## Quick Reminder GIT commands
+
+In general, consult the online book: "Happy Git and Github for the UseR" by Jenny Bryan [http://happygitwithr.com/](http://happygitwithr.com/).
+
+1. Introducing yourself to GIT, see [http://happygitwithr.com/hello-git.html](http://happygitwithr.com/hello-git.html) - put in YOUR NAME and YOUR EMAIL that you used when you created your Github account
+    * `git config --global user.name 'First Last'`
+    * `git config --global user.email 'userid@myemail.com'`
+    * `git config --global --list`
+    
+2. Add/Sync files FROM local computer to Github account _[BE SURE you are in the correct project folder]_
+    * Add/Stage `git add .`
+    * Commit `git commit -m "comment goes here"`
+    * PUSH `git push`
+    
+3. Add/Sync files FROM Github cloud account to local computer _[BE SURE you are in the correct project folder]_
+  * PULL `git pull`
+  

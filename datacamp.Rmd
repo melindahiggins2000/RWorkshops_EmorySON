@@ -1,0 +1,17 @@
+---
+title: "Datacamp"
+---
+
+<br>
+![](DataCamp_Horizontal_RGB.png){width=200}
+<br>
+
+
+_“This class is supported by DataCamp, the most intuitive learning platform for data science. Learn R, Python and SQL the way you learn best through a combination of short expert videos and hands-on-the-keyboard exercises. Take over 100+ courses by expert instructors on topics such as importing data, data visualization or machine learning and learn faster through immediate and personalised feedback on every exercise.”_
+
+
+**Datacamp** [https://www.datacamp.com/groups/education](https://www.datacamp.com/groups/education) is an online learning platform. For education, Datacamp provides courses for FREE while students are actively enrolled in participating courses. We have arranged for you to have access to these courses while you are enrolled at Emory University in N741.
+
+You should have access to the course site at [https://www.datacamp.com/groups/big-data-analytics-for-healthcare-nrsg-741](https://www.datacamp.com/groups/big-data-analytics-for-healthcare-nrsg-741).
+
+

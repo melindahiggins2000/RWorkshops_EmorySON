@@ -1,0 +1,43 @@
+name: "R Workshops - Emory University - School of Nursing"
+output_dir: "docs"
+navbar:
+  title: "R Workshops - Emory University - School of Nursing"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Workshops"
+      icon: fa-archive
+      menu:
+        - text: "R and RStudio Basics"
+          href: rrstudioBasics.html
+        - text: "Regression"
+          href: regression.html
+    - text: "Instructors"
+      icon: fa-users
+      href: about.html
+    - text: "Resources"
+      icon: fa-cog
+      menu:
+        - text: "R, RStudio. Git, Github Links/Help"
+          href: help.html
+        - text: "Datacamp"
+          href: datacamp.html
+        - text: "Fix Installing Packages"
+          href: fixInstallPkgs.html
+        - text: "GIT/Github Cheatsheet"
+          href: githelp.html
+  right:
+    - text: "Colophon"
+      icon: fa-info-circle
+      href: colophon.html
+output:
+  html_document:
+    theme: lumen
+    toc: true
+    toc_float: true
+    highlight: kate
+    include:
+      after_body: footer.html
+    css: [styles.css, font-awesome-4.7.0/css/font-awesome.css]
+    self_contained: yes

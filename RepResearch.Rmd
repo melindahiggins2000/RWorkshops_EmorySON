@@ -1,0 +1,59 @@
+---
+title: "Reproducible Research"
+---
+
+## V. Hertzberg Slides
+
+* Reproducible Research Slides [https://melindahiggins2000.github.io/N741_Lecture2_20180124/Reproducible%20Research%2020180124.html#/](https://melindahiggins2000.github.io/N741_Lecture2_20180124/Reproducible%20Research%2020180124.html#/) - built using the Rpres format in RStudio
+
+## Homework 1
+
+* see "HW1_20180124.docx", which can be downloaded from the Github Repository [https://github.com/melindahiggins2000/N741_Lecture2_20180124](https://github.com/melindahiggins2000/N741_Lecture2_20180124)
+* see Example Report at [https://melindahiggins2000.github.io/N741_Lecture2_20180124/Gapminder_Markdown_20180124.html](https://melindahiggins2000.github.io/N741_Lecture2_20180124/Gapminder_Markdown_20180124.html)
+* see instructional video for help at [https://youtu.be/WlqyYwwEC8w](https://youtu.be/WlqyYwwEC8w)
+* and other helpful Videos for N741 at [https://melindahiggins2000.github.io/N741bigdata/files.html#_youtube_videos_for_n741](https://melindahiggins2000.github.io/N741bigdata/files.html#_youtube_videos_for_n741)
+
+## Highlights - Slides _(all built using `markdown` in RStudio)_
+
+* [Slides - History & Importance of Reproducibility & Transparency](m1_lesson01.html)
+* [Slides - Literate Programming & Dynamic Documentation](m1_lesson02.html)
+* [Slides - Reproducible Principles, Practices & Examples](m1_lesson03.html)
+* [Slides - Reproducible Components](m1_lesson04.html)
+
+## Hands-On
+
+Now let's put everything together.
+
+## Github
+
+* Login to your Github Account
+* Fork this repository [https://github.com/melindahiggins2000/N741exercise01](https://github.com/melindahiggins2000/N741exercise01)
+* Go to your Github Account
+
+## Connect with GIT
+
+* Read sections in [Happy Git and Github for the UserR](http://happygitwithr.com/) - specifically Chapter 8 on Introducing Yourself to GIT [http://happygitwithr.com/hello-git.html](http://happygitwithr.com/hello-git.html)
+* Run Git and type in the commands to introduce yourself (create your credentials on your computer)
+
+## On Local Computer
+
+* Create a folder that you will use for all of the projects and assignments in this course (e.g. `C:/N741`).
+
+## Run RStudio
+
+* Go to Tools/Global options, click on GIT/SVN - make sure your computer "sees" the GIT executable - on my computer it is `C:/Program Files/Git/bin/git.exe`
+* Create New Project, Using Version Control, GIT
+* From the Github repository, copy the URL to the clipboard, and make sure you create the project as a subdirectory of the folder you created for this course (e.g. `C:/N741`).
+
+## Make some changes and sync with Github
+
+* Open the README.md file
+* Make some changes - add a sentence or two
+* Notice the changes in the GIT TAB top right
+* We will follow 3 steps:
+    * Add/Stage
+    * Commit
+    * PUSH
+* Try using the RStudio GIT TAB
+* and we'll run again using the Terminal Window (or the GIT application)
+

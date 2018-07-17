@@ -1,0 +1,40 @@
+---
+title: "Introductory Materials"
+---
+
+## Introduction to the Course
+
+This course will describe the concepts underlying the field of study identified as big data analytics along with its application in healthcare. The theoretical underpinnings of these concepts will be presented along with applications in healthcare, including knowledge discovery, precision medicine/nursing, and the development of targeted interventions to improve health outcomes. Commonly used methods in big data analytics will be reviewed, and the challenges related to gathering, analyzing, visualizing, and interpreting big data will be discussed. Hands-on computer laboratory experience with these techniques relevant to an identified area will be included.
+
+## What is data science
+
+_**Open discussion**_
+
+## Resources
+
+See links and information on this website under _**Resources**_ for R, RStudio, Git and Github at [https://melindahiggins2000.github.io/N741bigdata/help.html](https://melindahiggins2000.github.io/N741bigdata/help.html).
+
+## Setting up R and RStudio
+
+1. See [Pre R Workshop Setup Instructions](https://melindahiggins2000.gitbooks.io/a-series-of-r-workshops/content/preWorkshop/index.html) This online "Book" has information on R, installing R and RStudio, and places to get help.
+
+2. [Youtube Video](https://www.youtube.com/watch?v=MsV5dJ2reQ4) on Installing R, RStudio and Compiling your first Rmarkdown report.
+
+## Working with R/RStudio with GIT/Github
+
+A key online book that is HUGELY helpful is "Happy Git and Github for the UseR" by Jenny Bryan, see [http://happygitwithr.com/](http://happygitwithr.com/).
+
+## Rmarkdown reports
+
+In addition to the YouTube video demonstration above, also learn more at:
+
+* [RMarkdown](http://rmarkdown.rstudio.com/index.html)
+
+* [Knitr examples](http://yihui.name/knitr/demo/showcase/)
+
+* Karl Broman's website [Knitr in a Knutshell](http://kbroman.org/knitr_knutshell/) tutorial
+
+
+
+
+
