@@ -13,7 +13,7 @@ navbar:
           href: rrstudioBasics.html
         - text: "Regression"
           href: regression.html
-    - text: "Instructors"
+    - text: "Instructor"
       icon: fa-users
       href: about.html
     - text: "Resources"
