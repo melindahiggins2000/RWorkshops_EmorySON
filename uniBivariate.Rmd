@@ -14,6 +14,10 @@ Download the H.E.L.P dataset for this workshop by clicking [here](https://github
 
 You can learn more about the H.E.L.P. _(Health Evaluation and Linkage to Primary Care)_ dataset at [https://nhorton.people.amherst.edu/sasr2/datasets.php](https://nhorton.people.amherst.edu/sasr2/datasets.php)
 
+## R Code (Script) for Workshop
+
+Download the R Code "Script" for today's workshop by clicking [here]().
+
 ## Recording
 
 The video recording for this workshop will be posted within a week of the workshop.
