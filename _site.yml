@@ -1,7 +1,7 @@
 name: "R Workshops - Emory University - School of Nursing"
 output_dir: "docs"
 navbar:
-  title: "R Workshops - Emory University - School of Nursing"
+  title: "R Workshops - Emory Nursing"
   left:
     - text: "Home"
       icon: fa-home

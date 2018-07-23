@@ -6,9 +6,13 @@ title: "Univariate and Bivariate Stats and Graphics"
 
 This workshop will be held on Monday July 23, 2018.
 
+The focus of this workshop is on visualizing variables and computing summary statistics for those variables in your dataset one (univariate) or two (bivariate) at a time. This workshop will introduce both base R graphical approaches and `ggplot2` graphics.
+
 ## Data for Workshop
 
+Download the H.E.L.P dataset for this workshop by clicking [here](https://github.com/melindahiggins2000/RWorkshops_EmorySON/blob/master/help.Rdata?raw=true)
 
+You can learn more about the H.E.L.P. _(Health Evaluation and Linkage to Primary Care)_ dataset at [https://nhorton.people.amherst.edu/sasr2/datasets.php](https://nhorton.people.amherst.edu/sasr2/datasets.php)
 
 ## Recording
 
