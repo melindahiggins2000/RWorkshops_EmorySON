@@ -16,7 +16,7 @@ You can learn more about the H.E.L.P. _(Health Evaluation and Linkage to Primary
 
 ## R Code (Script) for Workshop
 
-Download the R Code "Script" for today's workshop by clicking [here]().
+Download the R Code "Script" for today's workshop by clicking [here](https://github.com/melindahiggins2000/RWorkshops_EmorySON/raw/master/uniBivariate.R).
 
 ## Recording
 
