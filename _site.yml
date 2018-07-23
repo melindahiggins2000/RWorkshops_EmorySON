@@ -11,7 +11,9 @@ navbar:
       menu:
         - text: "R and RStudio Basics"
           href: rrstudioBasics.html
-        - text: "Regression"
+        - text: "Univariate and Bivariate Stats and Graphics"
+          href: uniBivariate.html
+        - text: "Regression Models and Presentation"
           href: regression.html
     - text: "Instructor"
       icon: fa-users

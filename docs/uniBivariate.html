@@ -11,7 +11,7 @@
 
 
 
-<title>FIX for Installing Packages</title>
+<title>Univariate and Bivariate Stats and Graphics</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -341,26 +341,21 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">FIX for Installing Packages</h1>
+<h1 class="title toc-ignore">Univariate and Bivariate Stats and Graphics</h1>
 
 </div>
 
 
-<div id="problem-installing-r-packages-on-windows-with-antivirus" class="section level2">
-<h2>Problem Installing R Packages on Windows with Antivirus</h2>
-<ol style="list-style-type: decimal">
-<li><p>First read the post on <img src="images/so-logo.png" width="100" /> at <a href="https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation" class="uri">https://stackoverflow.com/questions/5700505/windows-7-update-packages-problem-unable-to-move-temporary-installation</a></p></li>
-<li>During your active RStudio session, at the command prompt you can run:
-<ul>
-<li><code>trace(utils:::unpackPkgZip, edit=TRUE)</code></li>
-</ul></li>
-<li>When the editing window pops up, scroll to line 142 and change
-<ul>
-<li><code>Sys.sleep(0.5)</code> to</li>
-<li><code>Sys.sleep(2)</code></li>
-</ul></li>
-<li><p>Click SAVE. This fixes the read/write time issue - <strong>BUT ONLY FOR THIS RSTUDIO SESSION</strong> YES, you will need to run during each RStudio session when you need to install new packages.</p></li>
-</ol>
+<div id="univariate-and-bivariate-stats-and-graphics" class="section level2">
+<h2>Univariate and Bivariate Stats and Graphics</h2>
+<p>This workshop will be held on Monday July 23, 2018.</p>
+</div>
+<div id="data-for-workshop" class="section level2">
+<h2>Data for Workshop</h2>
+</div>
+<div id="recording" class="section level2">
+<h2>Recording</h2>
+<p>The video recording for this workshop will be posted within a week of the workshop.</p>
 </div>
 
 <hr>
