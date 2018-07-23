@@ -170,6 +170,7 @@ rug(jitter(helpdata$age))
 
 # ggplot2() tidyverse approach
 # see http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/ 
+library(ggplot2)
 
 ggplot(helpdata, aes(x=age)) + 
   geom_histogram()
@@ -350,7 +351,7 @@ ggplot(helpdata, aes(x=racegrp, y=age, fill=racegrp)) +
 
 # optional
 # violin plots - by race
-# using the violinplot package
+# using the violinmplot package
 library(violinmplot)
 violinmplot(age ~ racegrp, 
             data = helpdata)

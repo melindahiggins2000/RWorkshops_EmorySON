@@ -18,6 +18,20 @@ You can learn more about the H.E.L.P. _(Health Evaluation and Linkage to Primary
 
 Download the R Code "Script" for today's workshop by clicking [here](https://github.com/melindahiggins2000/RWorkshops_EmorySON/raw/master/uniBivariate.R).
 
+## R Packages Needed
+
+* `dplyr` [https://cran.r-project.org/web/packages/dplyr/](https://cran.r-project.org/web/packages/dplyr/), also see [https://www.tidyverse.org/packages/](https://www.tidyverse.org/packages/)
+* `ggplot2` [https://cran.r-project.org/web/packages/ggplot2/](https://cran.r-project.org/web/packages/ggplot2/), also see [https://www.tidyverse.org/packages/](https://www.tidyverse.org/packages/)
+* `Hmisc` [https://cran.r-project.org/web/packages/Hmisc/](https://cran.r-project.org/web/packages/Hmisc/)
+* `psych` [https://cran.r-project.org/web/packages/psych/](https://cran.r-project.org/web/packages/psych/)
+* `pastecs` [https://cran.r-project.org/web/packages/pastecs/](https://cran.r-project.org/web/packages/pastecs/)
+* `gmodels` [https://cran.r-project.org/web/packages/gmodels/](https://cran.r-project.org/web/packages/gmodels/)
+* `car` [https://cran.r-project.org/web/packages/car/](https://cran.r-project.org/web/packages/car/)
+* optional
+    + `ggpubr` [https://cran.r-project.org/web/packages/ggpubr/](https://cran.r-project.org/web/packages/ggpubr/)
+    + `e1071` [https://cran.r-project.org/web/packages/e1071/](https://cran.r-project.org/web/packages/e1071/)
+    + `violinmplot` [https://cran.r-project.org/web/packages/violinmplot/](https://cran.r-project.org/web/packages/violinmplot/)
+
 ## Recording
 
 The video recording for this workshop will be posted within a week of the workshop.
