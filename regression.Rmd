@@ -25,6 +25,14 @@ You can learn more about the H.E.L.P. _(Health Evaluation and Linkage to Primary
 
 Download the R Code "Script" for today's workshop by clicking [here](https://github.com/melindahiggins2000/RWorkshops_EmorySON/raw/master/regression.R).
 
+The packages needed for this R script are:
+
+* `tidyverse`
+* `car`
+* `olsrr`
+* `ROCR`
+* `Rcmdr`
+
 ## Recording
 
 The video recording for this workshop will be uploaded within a week after the workshop.

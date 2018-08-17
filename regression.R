@@ -6,6 +6,13 @@
 #' dated 08/17/2018
 #' =======================================
 #' 
+#' PACKAGES NEEDED:
+#' - tidyverse
+#' - car
+#' - olsrr
+#' - ROCR
+#' - Rcmdr
+#' 
 #' =======================================
 #' Create a New Project in a 
 #' New Folder on your computer
