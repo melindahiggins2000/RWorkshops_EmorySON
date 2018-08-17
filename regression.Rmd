@@ -6,6 +6,25 @@ title: "Regression"
 
 This workshop will be held on Monday August 20, 2018.
 
+The focus of this workshop is on understanding the modeling functions and applicable packages in `R` for performing regression. This workshop will introduce the formula syntax for specifying the models. We will also cover how to pull out results of interests as well as useful graphical visualizations of results and model fitting diagnostics.
+
+This workshop will also demonstrate the `Rcmdr` package. To learn more about `Rcmdr` (R Commander) please see:
+
+* [https://www.rcommander.com/](https://www.rcommander.com/)
+* [https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/) 
+* And the installation notes for PC and MAC at [https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/installation-notes.html](https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/installation-notes.html)
+* CRAN repository for the `Rcmdr` package: [https://cran.r-project.org/web/packages/Rcmdr/index.html](https://cran.r-project.org/web/packages/Rcmdr/index.html)
+
+## Data for Workshop
+
+Download the H.E.L.P dataset for this workshop by clicking [here](https://github.com/melindahiggins2000/RWorkshops_EmorySON/blob/master/help.Rdata?raw=true)
+
+You can learn more about the H.E.L.P. _(Health Evaluation and Linkage to Primary Care)_ dataset at [https://nhorton.people.amherst.edu/sasr2/datasets.php](https://nhorton.people.amherst.edu/sasr2/datasets.php)
+
+## R Code (Script) for Workshop
+
+Download the R Code "Script" for today's workshop by clicking [here](https://github.com/melindahiggins2000/RWorkshops_EmorySON/raw/master/regression.R).
+
 ## Recording
 
 The video recording for this workshop will be uploaded within a week after the workshop.
